@@ -54,3 +54,12 @@ Follow this template to add yourself as a contributor.
 
  **Github** - [Singhanjali8](https://github.com/harshit-kesharwani)
 ---
+ **Name** - Harsh Tomar
+
+ **Languages** - python,C++
+
+ **Favourite IDEs** - VS Code, Code Blocks, Anaconda
+
+ **Twitter** - HARSH_353535
+
+ **Github** - harshtomar35
